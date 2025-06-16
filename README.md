@@ -1,30 +1,50 @@
-# Handwritten Digit Recognition using Neural Network 🧠🖊️
+# 🧠✍️ Handwritten Digit Recognition using Neural Networks
 
-This project implements a **Handwritten Digit Recognition System** using a **Neural Network (NN)** trained on the MNIST dataset. Handwritten digit recognition is a classic problem in machine learning and computer vision. It involves recognizing handwritten digits (0-9) from images or scanned documents. This task is widely used as a benchmark for evaluating machine learning models especially neural networks due to its simplicity and real-world applications such as postal code recognition and bank check processing. In this article we will implement Handwritten Digit Recognition using Neural Network.
-## Download Datasets 
-[click here](#https://media.geeksforgeeks.org/wp-content/uploads/20250407132659565012/Train.csv)
+This project implements a **Handwritten Digit Recognition System** using a **Neural Network (NN)** trained on the MNIST dataset. Recognizing handwritten digits (0-9) is a foundational problem in machine learning and computer vision. It has practical applications such as **postal code digit recognition**, **bank check processing**, and **digitized document classification**.
 
-
-
-## 📌 About
-
-This project demonstrates how a **feedforward neural network** or a **convolutional neural network (CNN)** can be trained to classify handwritten digits from the MNIST dataset. It involves:
-
-- Data loading and preprocessing
-- Model training and validation
-- Performance evaluation and visualization
-- Prediction from user-drawn digits (optional)
+This project showcases how a neural network can learn to identify handwritten digits with high accuracy using a simple dataset.
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Dataset
 
-- Python 3.x
-- NumPy
-- TensorFlow / Keras
-- Matplotlib
-- scikit-learn
-- Jupyter Notebook (optional)
+We use the **MNIST** dataset for training and testing. It contains 60,000 training images and 10,000 test images of handwritten digits from 0 to 9.
+
+📥 **[Download Dataset](https://media.geeksforgeeks.org/wp-content/uploads/20250407132659565012/Train.csv)** (`Train.csv`)
+
+---
+
+## 📌 Project Features
+
+This project demonstrates how a **Feedforward Neural Network** or a **Convolutional Neural Network (CNN)** can be built and trained to classify digits. The major steps include:
+
+- ✅ Data loading and preprocessing  
+- ✅ Neural network architecture design  
+- ✅ Model training and validation  
+- ✅ Evaluation using accuracy and confusion matrix  
+- ✅ Visualization of predictions  
+- ✅ Optional: Predict digits drawn by users in real time
+
+---
+
+## ⚙️ Tech Stack
+
+- 🐍 Python 3.x  
+- 📦 NumPy  
+- 🤖 TensorFlow / Keras  
+- 📊 Matplotlib  
+- 📚 scikit-learn  
+- 🧪 Jupyter Notebook *(optional for interactive development)*
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AryanSinghh07/Handwritten-Digit-Recognition-using-Neural-Network.git
+cd Handwritten-Digit-Recognition-using-Neural-Network
 
 ---
 
