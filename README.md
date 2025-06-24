@@ -46,5 +46,4 @@ This project demonstrates how a **Feedforward Neural Network** or a **Convolutio
 git clone https://github.com/AryanSinghh07/Handwritten-Digit-Recognition-using-Neural-Network.git
 cd Handwritten-Digit-Recognition-using-Neural-Network
 
----
 
