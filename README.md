@@ -1,4 +1,4 @@
-# 🧠✍️ Handwritten Digit Recognition using Neural Networks
+# 🧠✍️ Handwritten Digit Recognition using Neural Networks !
 
 This project implements a **Handwritten Digit Recognition System** using a **Neural Network (NN)** trained on the MNIST dataset. Recognizing handwritten digits (0-9) is a foundational problem in machine learning and computer vision. It has practical applications such as **postal code digit recognition**, **bank check processing**, and **digitized document classification**.
 
